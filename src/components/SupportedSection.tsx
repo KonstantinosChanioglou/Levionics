@@ -22,7 +22,7 @@ const SupportedSection = () => (
         </div>
         <div className="text-center">
           <h2 className="font-heading text-2xl md:text-3xl font-bold text-foreground mb-10">
-            Early Partners
+            Early Validation Partners
           </h2>
           <div className="flex flex-wrap items-center justify-center gap-10 md:gap-12">
             <img src={lobsterLogo} alt="Lobster Robotics" className="h-12 md:h-16 object-contain" />
